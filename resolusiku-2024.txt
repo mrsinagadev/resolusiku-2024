@@ -1,0 +1,5 @@
+Resolusiku di tahun 2024
+- Konsisten ngoding setidaknya 3 jam sehari.
+- Membuat lebih banyak projek sederhana
+- Mendalami bahasa pemrograman PHP beserta frameworknya
+- Mendalami bahasa pemrograman Javascript beserta frameworknya
